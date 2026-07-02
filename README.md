@@ -1,4 +1,6 @@
-﻿# product-slot-management
+<h1>College Projects </h1>
+
+ # product-slot-management
 
 A Python-based simulation of an Amazon fulfillment center conveyor belt using arrays. This project demonstrates slot access, product search, slot updates, and belt capacity checking while showcasing basic data structure operations.
 
