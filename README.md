@@ -15,3 +15,7 @@ A Python implementation of a Toll Plaza Simulation using a Circular Queue. The p
 # The Scolership rank
 
 The Scholarship Ranker program identifies the top 3 students based on their marks. It repeatedly scans the marks list, selects the highest score, and places it in the correct position using the Selection Sort technique.
+
+# The_lost_std
+
+The program uses Linear Search to find a student's name in an unsorted attendance register. It checks each name one by one until the student is found or the entire list has been searched.
