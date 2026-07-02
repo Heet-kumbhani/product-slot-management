@@ -11,3 +11,7 @@ A Python implementation of a GPS Navigation System using two stacks. The program
 # toll_plaza_simulation
 
 A Python implementation of a Toll Plaza Simulation using a Circular Queue. The project demonstrates enqueue, dequeue, queue display, and efficient reuse of empty slots in a fixed-size queue.
+
+# The Scolership rank
+
+The Scholarship Ranker program identifies the top 3 students based on their marks. It repeatedly scans the marks list, selects the highest score, and places it in the correct position using the Selection Sort technique.
